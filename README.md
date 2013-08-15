@@ -14,7 +14,7 @@ Use the Stylish extension for the browser you prefer.
 Feel free to send any questions or feedback to [barry@barryclark.co][1] or find me on Twitter at @[BazNYC][2].
 
 
-[1]: mailto:connor@connorsears.com        "Email Barry"
+[1]: mailto:barry@barryclark.co        "Email Barry"
 [2]: http://twitter.com/baznyc            "Barry Clark on Twitter"
 [3]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe "Stylish for Chrome"
 [4]: http://sobolev.us/stylish/ "Stylish for Safari"
